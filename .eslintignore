@@ -1,0 +1,6 @@
+src/app/*.js
+src/app/*/*.js
+src/app/*/*/*.js
+src/app/*/*/*/*.js
+src/app/*/*/*/*/*.js
+src/App.js

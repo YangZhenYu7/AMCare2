@@ -1,0 +1,22 @@
+{
+  "name": "am-care",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "react-electron-scripts": "0.4.2",
+    "victory": "^0.21.3",
+    "mongodb": "^2.2.30",
+    "antd": "^2.12.2"
+  },
+  "devDependencies": {
+    "underscore": "^1.8.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

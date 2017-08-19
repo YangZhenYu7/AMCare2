@@ -1,0 +1,16 @@
+.chart {
+
+}
+
+.div_chart_parent {
+    display: flex;
+    flex-direction: row;
+}
+
+.div_button_parent {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}

@@ -1,0 +1,11 @@
+.div_header {
+    justify-content:space-around;
+    margin-bottom: 20px;
+    border-color: #ff4957;
+    border-width: 12px;
+}
+
+.button_header {
+    margin-left: 20px;
+    margin-right: 20px;
+}

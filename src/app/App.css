@@ -1,0 +1,17 @@
+/*@import '~antd/dist/antd.css';*/
+
+#components-form-demo-advanced-search .ant-advanced-search-form {
+padding: 24px;
+background: #fbfbfb;
+border: 1px solid #d9d9d9;
+border-radius: 6px;
+}
+
+#components-layout-demo-top-side-2 .logo {
+width: 120px;
+height: 31px;
+background: #faff4d;
+border-radius: 6px;
+margin: 16px 28px 16px 0;
+float: left;
+}
