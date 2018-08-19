@@ -11,12 +11,14 @@
     "antd": "^2.12.2"
   },
   "devDependencies": {
+    "electron-packager": "^8.7.2",
     "underscore": "^1.8.3"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "packager": "electron-packager ./  --out ./dist/AMCare --electronVersion 1.0.0 --overwrite "
   }
 }

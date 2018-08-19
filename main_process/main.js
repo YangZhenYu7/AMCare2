@@ -18,7 +18,7 @@ function createWindow() {
     frame: true
   });
 
-     startDBServer(win);
+    startDBServer();
   // and load the index.html of the app.
 
     win.loadURL('http://localhost:3000');
